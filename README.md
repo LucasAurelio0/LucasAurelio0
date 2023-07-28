@@ -1,4 +1,4 @@
-### Olá, eu me chamo Lucas Aurélio
+### 
 
 - 🌱 Atualmente aprendendo Java
 - 😄 Pronomes: ele/dele
