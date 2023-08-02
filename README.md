@@ -1,7 +1,6 @@
 ### 
 
 - 🌱 Atualmente aprendendo Java
-- 😄 Pronomes: ele/dele
 
 
 </div>
